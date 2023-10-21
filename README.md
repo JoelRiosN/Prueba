@@ -9,7 +9,7 @@ hist(x)
 ```
 
 ## Seccion 1
- prueba
+Esto es un texto $f(x)=x^2$
 
 ## Seccion 2
-abcd
+abcd $X\sim \matbf{N}(\mu,\sigma^2)$
